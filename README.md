@@ -101,6 +101,12 @@ Key metrics from the Orange evaluation:
 
 The Random Forest model achieved the best balance of identifying churners (recall) while limiting false positives (precision), making it suitable for targeting retention campaigns efficiently. 
 
+## Orange Workflow
+
+The machine learning pipeline was implemented in Orange using a visual workflow of preprocessing, model training, and evaluation widgets.
+
+<img width="869" height="592" alt="image" src="https://github.com/user-attachments/assets/3500c1f6-7174-4153-b82c-613fbad8119e" />
+
 ## Business Insights and Recommended Actions
 
 Translating the analytics into actions for a digital finance provider:
