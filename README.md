@@ -1,2 +1,2 @@
 # Churn-Rate-Analysis
-Churn rate analysis for a financial institute
+Churn rate analysis for a financial institute using Excel
