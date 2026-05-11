@@ -1,5 +1,6 @@
 # From Data to Decisions: Client Churn Analysis in a Digital Finance Platform
-![Client churn analysis poster0] <img width="1066" height="799" alt="image" src="https://github.com/user-attachments/assets/628454c2-929c-4902-a5e6-a85856fd2287" />
+<img width="1028" height="775" alt="image" src="https://github.com/user-attachments/assets/1f44b6d4-1a6e-4e34-82a4-130094ea6d7e" />
+
 
 End‑to‑end analytics project for a digital financial services provider, focused on understanding and predicting client churn so the business can take proactive retention actions. 
 
